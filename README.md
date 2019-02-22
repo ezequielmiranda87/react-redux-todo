@@ -2,7 +2,7 @@
 
 ## Description
 A To Do App made with react and redux.
-Check the app live here -> 
+Check the app live [here](https://ezequielmiranda87.github.io/react-redux-todo)
 
 ## Dependencies
     - React
